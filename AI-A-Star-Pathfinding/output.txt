@@ -1,0 +1,12 @@
+Steps for AI - Seed: 5
+
+AI in Map 1  > 13 steps to dummy key > 11 steps to key > 15 steps to clue > 12 steps to end == 51 total steps to solve!
+
+AI in Map 2  > 7 steps to clue > 6 steps to dummy key > 19 steps to key > 18 steps to end == 50 total steps to solve!
+
+AI in Map 3  > 6 steps to key > 5 steps to clue > 2 steps to end == 13 total steps to solve!
+
+AI in Map 4  > 12 steps to dummy key > 14 steps to clue > 13 steps to key > 4 steps to end == 43 total steps to solve!
+
+AI in Map 5  > 7 steps to clue > 6 steps to dummy key > 17 steps to key > 12 steps to end == 42 total steps to solve!
+
